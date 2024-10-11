@@ -2,7 +2,7 @@
 
 ## What is MarketPro?
 
-MarketPro is a SaaS platform offering a suite of solutions for small and mid-sized businesses to manage operations and optimize customer relationships. With its diverse customer base spanning multiple industries, MarketPro enables businesses to improve customer engagement, reduce churn, and drive business growth.
+MarketPro is a SaaS platform with over 3000 customer, offering a suite of solutions for small and mid-sized businesses to manage operations and optimize customer relationships. With its diverse customer base spanning multiple industries, MarketPro enables businesses to improve customer engagement, reduce churn, and drive business growth.
 
 ## This Project
 
